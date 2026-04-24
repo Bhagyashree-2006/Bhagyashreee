@@ -10,8 +10,8 @@
 - Portfolio Website  
 
 ## 🌐 Socials
-- LinkedIn: (add your link)
-- GitHub: (your profile link)
+- LinkedIn: (https://www.linkedin.com/in/bhagyashree-j-r-4247303a7)
+- GitHub: ([your profile link](https://github.com/Bhagyashree-2006))
 
 ## 🛠️ Skills
 - HTML, CSS, JavaScript
